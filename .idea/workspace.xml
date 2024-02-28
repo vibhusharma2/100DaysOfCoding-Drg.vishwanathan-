@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f13f247a-aee8-448e-8ae9-13193239fed3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/ReverseTheArray_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day1/ReverseTheArray_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +16,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 8
+}]]></component>
   <component name="ProjectId" id="2aCyZE2AFQxSzEGBLApAsMe6Ei6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -26,12 +30,43 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ExcelSheetColumnNumber_Leetcode_171.executor": "Run",
+    "Application.PeakElement_Leetcode_162.executor": "Run",
+    "Application.ReverseTheArray_1.executor": "Run",
+    "Application.ReverseWordsInString_Leetcode_557.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ExcelSheetColumnNumber_Leetcode_171">
+    <configuration name="ExcelSheetColumnNumber_Leetcode_171" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day1.ExcelSheetColumnNumber_Leetcode_171" />
+      <module name="_100DaysOfCoding-Dgr.vishwanathan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PeakElement_Leetcode_162" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day1.PeakElement_Leetcode_162" />
+      <module name="_100DaysOfCoding-Dgr.vishwanathan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ReverseTheArray_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ReverseTheArray_1" />
       <module name="_100DaysOfCoding-Dgr.vishwanathan" />
@@ -39,8 +74,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReverseWordsInString_Leetcode_557" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day1.ReverseWordsInString_Leetcode_557" />
+      <module name="_100DaysOfCoding-Dgr.vishwanathan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExcelSheetColumnNumber_Leetcode_171" />
+        <item itemvalue="Application.PeakElement_Leetcode_162" />
+        <item itemvalue="Application.ReverseWordsInString_Leetcode_557" />
         <item itemvalue="Application.ReverseTheArray_1" />
       </list>
     </recent_temporary>
