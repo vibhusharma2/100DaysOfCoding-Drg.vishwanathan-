@@ -15,10 +15,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2aCyZE2AFQxSzEGBLApAsMe6Ei6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -27,28 +27,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ExcelSheetColumnNumber_Leetcode_171.executor": "Run",
-    "Application.NumberOf1Bits_Leetcode_191.executor": "Run",
-    "Application.PeakElement_Leetcode_162.executor": "Run",
-    "Application.PowerOfFour_Leetcode_342.executor": "Run",
-    "Application.PowerOfThree_Leetcode_326.executor": "Run",
-    "Application.ReverseTheArray_1.executor": "Run",
-    "Application.ReverseWordsInString_Leetcode_557.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ExcelSheetColumnNumber_Leetcode_171.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberOf1Bits_Leetcode_191.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PeakElement_Leetcode_162.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PowerOfFour_Leetcode_342.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PowerOfThree_Leetcode_326.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PowerOfTwo_Leetcode_231.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseTheArray_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseWordsInString_Leetcode_557.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.PowerOfTwo_Leetcode_231">
-    <configuration name="ExcelSheetColumnNumber_Leetcode_171" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day1.ExcelSheetColumnNumber_Leetcode_171" />
+}</component>
+  <component name="RunManager" selected="Application.PerfectNumber_Leetcode_507">
+    <configuration name="CountingBits_Leetcode_338" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day3.CountingBits_Leetcode_338" />
       <module name="_100DaysOfCoding-Dgr.vishwanathan" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day1.*" />
+          <option name="PATTERN" value="day3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberOf1Bits_Leetcode_191" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day2.NumberOf1Bits_Leetcode_191" />
+    <configuration name="FindTheDifference_Leetcode_389" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day3.FindTheDifference_Leetcode_389" />
       <module name="_100DaysOfCoding-Dgr.vishwanathan" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day2.*" />
+          <option name="PATTERN" value="day3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PowerOfFour_Leetcode_342" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day2.PowerOfFour_Leetcode_342" />
+    <configuration name="PerfectNumber_Leetcode_507" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day3.PerfectNumber_Leetcode_507" />
       <module name="_100DaysOfCoding-Dgr.vishwanathan" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day2.*" />
+          <option name="PATTERN" value="day3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PerfectNumber_Leetcode_507" />
+        <item itemvalue="Application.FindTheDifference_Leetcode_389" />
+        <item itemvalue="Application.CountingBits_Leetcode_338" />
         <item itemvalue="Application.PowerOfTwo_Leetcode_231" />
         <item itemvalue="Application.PowerOfThree_Leetcode_326" />
-        <item itemvalue="Application.PowerOfFour_Leetcode_342" />
-        <item itemvalue="Application.NumberOf1Bits_Leetcode_191" />
-        <item itemvalue="Application.ExcelSheetColumnNumber_Leetcode_171" />
       </list>
     </recent_temporary>
   </component>
