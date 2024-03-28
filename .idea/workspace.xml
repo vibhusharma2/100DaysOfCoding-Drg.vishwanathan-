@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f13f247a-aee8-448e-8ae9-13193239fed3" name="Changes" comment="" />
+    <list default="true" id="f13f247a-aee8-448e-8ae9-13193239fed3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day23/DayOfTheWeek_Leetcode_1185.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day23/DayOfTheWeek_Leetcode_1185.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,25 +28,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.CountingBits_Leetcode_338.executor": "Run",
-    "Application.ExcelSheetColumnNumber_Leetcode_171.executor": "Run",
-    "Application.FindTheDifference_Leetcode_389.executor": "Run",
-    "Application.NumberOf1Bits_Leetcode_191.executor": "Run",
-    "Application.PeakElement_Leetcode_162.executor": "Run",
-    "Application.PerfectNumber_Leetcode_507.executor": "Run",
-    "Application.PowerOfFour_Leetcode_342.executor": "Run",
-    "Application.PowerOfThree_Leetcode_326.executor": "Run",
-    "Application.PowerOfTwo_Leetcode_231.executor": "Run",
-    "Application.ReverseTheArray_1.executor": "Run",
-    "Application.ReverseWordsInString_Leetcode_557.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CountingBits_Leetcode_338.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExcelSheetColumnNumber_Leetcode_171.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindTheDifference_Leetcode_389.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberOf1Bits_Leetcode_191.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PeakElement_Leetcode_162.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PerfectNumber_Leetcode_507.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PowerOfFour_Leetcode_342.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PowerOfThree_Leetcode_326.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PowerOfTwo_Leetcode_231.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseTheArray_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseWordsInString_Leetcode_557.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.PerfectNumber_Leetcode_507">
     <configuration name="CountingBits_Leetcode_338" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day3.CountingBits_Leetcode_338" />

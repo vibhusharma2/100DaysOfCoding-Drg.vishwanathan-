@@ -16,3 +16,4 @@ public class DayOfTheWeek_Leetcode_1185 {
     public static void main(String[] args) {
         System.out.println(dayOfTheWeek(31, 8, 2019));
     }
+}
